@@ -1,5 +1,5 @@
 import unittest
-from docker.python_grading.suite import test_suite
+from base.docker.python_grading.suite import test_suite
 
 
 @test_suite('Basic testing')
